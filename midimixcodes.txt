@@ -1,0 +1,83 @@
+Akai Midimix LED Hex Codes
+
+Hardware Strip 1
+----------------
+Mute ON - 90, 1, 7f
+Mute OFF - 90, 1, 0
+Solo Mute ON - 90, 2, 7f
+Solo Mute OFF - 90, 2, 0
+REC ARM ON - 90, 3, 7f
+REC ARM OFF - 90, 3, 0
+
+Hardware Strip 2
+-----------------
+Mute ON - 90, 4, 7f
+Mute OFF - 90, 4 , 0
+Solo Mute ON - 90, 5, 7f
+Solo Mute OFF - 90, 5, 0
+REC ARM ON - 90, 6, 7f
+REC ARM OFF - 90, 6, 0
+
+Hardware Strip 3
+-----------------
+Mute ON - 90, 7, 7f
+Mute OFF - 90, 7, 0
+Solo Mute ON - 90, 8, 7f
+Solo Mute OFF - 90, 8, 0
+REC ARM ON - 90, 9, 7f
+REC ARM OFF - 90, 9, 0
+
+Hardware Strip 4
+-----------------
+Mute ON - 90, a, 7f
+Mute OFF - 90, a, 0
+Solo Mute ON - 90, b, 7f
+Solo Mute OFF - 90, b, 0
+REC ARM ON - 90, c, 7f
+REC ARM OFF - 90, c, 0
+
+Hardware Strip 5
+-----------------
+Mute ON - 90, d, 7f
+Mute OFF - 90, d, 0
+Solo Mute ON - 90, e, 7f
+Solo Mute OFF - 90, e, 0
+REC ARM ON - 90, f, 7f
+REC ARM OFF - 90, f, 0
+
+Hardware Strip 6
+-----------------
+Mute ON - 90, 10, 7f
+Mute OFF - 90, 10, 0
+Solo Mute ON - 90, 11, 7f
+Solo Mute OFF - 90, 11, 0
+REC ARM ON - 90, 12, 7f
+REC ARM OFF - 90, 12, 0
+
+Hardware Strip 7
+-----------------
+Mute ON - 90, 13, 7f
+Mute OFF - 90, 13, 0
+Solo Mute ON - 90, 14, 7f
+Solo Mute OFF - 90, 14, 0
+REC ARM ON - 90, 15, 7f
+REC ARM OFF - 90, 15, 0
+
+Hardware Strip 8
+-----------------
+Mute ON - 90, 16, 7f
+Mute OFF - 90, 16, 0
+Solo Mute ON - 90, 17, 7f
+Solo Mute OFF - 90, 17, 0
+REC ARM ON - 90, 18, 7f
+REC ARM OFF - 90, 18, 0
+
+Bank Left ON - 90, 19, 7f
+Bank Left OFF - 90, 19, 0
+
+Bank Right ON - 90, 1a, 7f
+Bank Right OFF - 90, 1a, 0
+
+
+
+
